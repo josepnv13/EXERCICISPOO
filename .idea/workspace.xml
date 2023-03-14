@@ -5,20 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3f3ce2-181b-492e-a28e-3e8b0306f632" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX1/EX1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX2/EX2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX3/EX3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX4/EX4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX5/EX5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX7/EX7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICISPOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex6/Ex6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX10/EX10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX11/EX11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX12/EX12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX13/EX13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX14/EX14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX15/EX15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX16/EX16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX16/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX17/EX17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX18/EX18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX19/EX19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX20/EX20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX20/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX8/EX8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX9/EX9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +42,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2My8vQdHN3jbsuXGQI276weiuMA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,52 +57,60 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\EXERCICISPOO" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Ex6" />
+      <module name="EX12" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Ex6" />
+      <module name="EX20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Ex6" />
+      <module name="EX13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EX7" />
+      <module name="EX11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Ex6" />
+      <module name="EX17" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +122,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678728691524</updated>
+      <workItem from="1678741328522" duration="9815000" />
+      <workItem from="1678751262904" duration="39000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
